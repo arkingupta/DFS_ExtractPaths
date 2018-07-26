@@ -8,5 +8,5 @@ Workflow 1 (extracting DFS paths for single file):
 5) Run "read_back.m" to get mat file with the paths. 
 
 Workflow 2 (extracting DFS paths for multiple files):
-1) Place all files in the folder "MotFiles"
+1) Place all files in a folder "MotFiles" in the working directory
 2) run get_paths.sh
